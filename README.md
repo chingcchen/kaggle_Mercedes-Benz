@@ -16,7 +16,7 @@ The goal of this repository is to record where I started as a beginner in the th
 
 > In this competition, Daimler is challenging Kagglers to tackle the curse of dimensionality and reduce the time that cars spend on the test bench. Competitors will work with a dataset representing different permutations of Mercedes-Benz car features to predict the time it takes to pass testing. Winning algorithms will contribute to speedier testing, resulting in lower carbon dioxide emissions without reducing Daimler’s standards.
 
-From the competition [homepage].(https://www.kaggle.com/c/mercedes-benz-greener-manufacturing).
+From the competition [homepage](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing).
 
 **In this notebook you can see how I predict the time a Mercedes-Benz car takes to pass testing:**
 
